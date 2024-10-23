@@ -23,11 +23,11 @@ function TicketCard({ ticket, users, grouping }) {
 
   // User avatars based on the user ID
   const userAvatars = {
-    'usr-1': '/Untitled/icons_FEtask/unnamed.jpg',
-    'usr-2': '/Untitled/icons_FEtask/unnamed2.png',
-    'usr-3': '/Untitled/icons_FEtask/unnamed3.png',
-    'usr-4': '/Untitled/icons_FEtask/unnamed.png',
-    'usr-5': '/Untitled/icons_FEtask/harsha.png'
+    'usr-1': '/Untitled/icons_FEtask/img1.png',
+    'usr-2': '/Untitled/icons_FEtask/img1.png',
+    'usr-3': '/Untitled/icons_FEtask/img1.png',
+    'usr-4': '/Untitled/icons_FEtask/img1.png',
+    'usr-5': '/Untitled/icons_FEtask/img1.png'
   };
 
   return (
